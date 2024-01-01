@@ -4,7 +4,7 @@ import time
 
 #视频bv号放这里，格式如下
 
-bvid=["xxxx","xxxx"]
+bvid=["BV1394y1g7Vb"]
 
 
 #代理池地址，项目可见https://github.com/jhao104/proxy_pool
